@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -g   CMakeFiles/heap_timer_test.dir/heap_timer_test.cc.o CMakeFiles/heap_timer_test.dir/home/aihu/webserver/code/buffer/buffer.cc.o CMakeFiles/heap_timer_test.dir/home/aihu/webserver/code/log/log.cc.o CMakeFiles/heap_timer_test.dir/home/aihu/webserver/code/heap_timer/heap_timer.cc.o  -o heap_timer_test  -lpthread -lpthread 
